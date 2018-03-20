@@ -1,6 +1,6 @@
 {
   "name": "native-graphics-deps",
-  "version": "0.0.9",
+  "version": "0.0.10",
   "description": "Precompiled Microsft Windows 8.x and 10.x 64-bit libraries with Microsoft Visual Studio 2015 x64 used in node-glfw, node-webgl, node-webcl: - precompiled with Visual Studio 2015, for x64 Windows - GLFW: [https://github.com/glfw/glfw] - GLEW: [https://github.com/nigels-com/glew.git] - FreeImage [http://freeimage.sourceforge.net/download.html] - AntTweakBar [http://sourceforge.net/projects/anttweakbar/]",
   "main": "index.js",
   "scripts": {
